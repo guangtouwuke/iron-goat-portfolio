@@ -1,5 +1,5 @@
-##Team Iron Goat
-Qihuan Aixinjueluo
+# Team Iron Goat
+### Qihuan Aixinjueluo
 
 In our process of developing the game Bulkhead, I am a member on the tech team and mainly responsible for implementing gameplay functions over the player’s character. As a first-year graduate student in IMGD, this is the first time I work with the Unreal engine. I have received great help from more experienced students Kai and John. For both of the development stages, Alpha and Beta, John divided the work into small goals for everyone on the tech side. So, my job is to try to achieve those goals and feedback my progress to the group. 
 
